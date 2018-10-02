@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160111325814",
+    "firebase_url": "https://reatimeproject.firebaseio.com",
+    "project_id": "reatimeproject",
+    "storage_bucket": "reatimeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160111325814:android:15e11018fb575e30",
+        "android_client_info": {
+          "package_name": "com.example.admin.reatimeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160111325814-3f3jnf891ejpa67tueu4jmkv24njlcrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.reatimeproject",
+            "certificate_hash": "14bb39e3bf508f7c069fae199b3dfdbdbab5121a"
+          }
+        },
+        {
+          "client_id": "160111325814-g9jve1dnr1u070nbcsfus5qi77m1ldci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvyynJSI7VevYy7hwMWKpg_HYYZ75eLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160111325814-g9jve1dnr1u070nbcsfus5qi77m1ldci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

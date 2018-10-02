@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545947147992",
+    "firebase_url": "https://realtimeproject2-2f73c.firebaseio.com",
+    "project_id": "realtimeproject2-2f73c",
+    "storage_bucket": "realtimeproject2-2f73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545947147992:android:cf32c1c57ad456bb",
+        "android_client_info": {
+          "package_name": "com.example.admin.realtimeproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545947147992-0suj3mgr1tlt0l1bdet32i482ivmlnjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.realtimeproject2",
+            "certificate_hash": "14bb39e3bf508f7c069fae199b3dfdbdbab5121a"
+          }
+        },
+        {
+          "client_id": "545947147992-q9o3o39h0102gemeuk8jgrddoev2fp19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQcvaEO-aFDdCNr4zoG4jN6DdwmsD_AaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545947147992-q9o3o39h0102gemeuk8jgrddoev2fp19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
